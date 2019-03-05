@@ -8,7 +8,7 @@ package hangman;
 
 /**
  *
- * @author rkaune
+ * This is a gui version of the assignment
  */
 public class FrameHangman extends javax.swing.JFrame {
     String answer = "T o r o n t o  M a p l e  L e a f s";
